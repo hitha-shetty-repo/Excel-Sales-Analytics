@@ -1,4 +1,4 @@
-## Sales Report :
+## Sales Analytics Report for AtliQ Hardware
 
 **🚀 Introduction**
 
